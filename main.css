@@ -29,6 +29,13 @@ html {
 	float: left;
 }
 
+.cntdwn {
+	allowTransparency: true;
+	border: none;
+	width: 257px;
+	height: 68px
+}
+
 #logo-container {
 	width: 900px;
 	margin: 0 auto;
