@@ -1,8 +1,7 @@
 html {
-	background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6) ), url("images/baseball_snow.jpg");;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url("images/baseball_snow.jpg") center center fixed no-repeat;
 	background-size: cover;
 	height: 100%;
-	width: 100%;
 }
 
 .text {
