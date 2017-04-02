@@ -22,7 +22,7 @@ html {
 
 .counter {
 	width: 33.333%;
-	min-width: 300px;
+	min-width: 286px;
 	max-width: 400px;
 	margin: 15% auto 30px auto;
 	padding: 0 0 10px 0;
@@ -34,7 +34,7 @@ html {
 .cntdwn {
 	allowTransparency: true;
 	border: none;
-	width: 257px;
+	width: 260px;
 	height: 68px
 }
 
